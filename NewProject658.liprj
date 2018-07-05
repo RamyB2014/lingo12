@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="E:\C-Drive\rbutros\Documents\My Translated Projects\NewProject658.liprjf" SourceControlDatabase="E:\C-Drive\rbutros\Documents\My Translated Projects\NewProject658.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="d65dc93f-2e87-4a1f-9bd6-a938e8cd4535">
+    <ProjectFile Source="Target/TEST_TABLE_DATASORT.flprj" Target="Target/TEST_TABLE_DATASORT.flprj" />
+</LingoProject>
